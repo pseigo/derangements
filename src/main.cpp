@@ -6,7 +6,7 @@
 #include <cmath>        // M_E
 #include <iomanip>      // setprecision()
 #include <ios>          // precision, streamsize
-#include <iostream>     // cout, endl
+#include <iostream>     // cin, cout, endl
 #include <string>       // string
 #include <vector>       // vector
 
